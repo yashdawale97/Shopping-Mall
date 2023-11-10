@@ -1,0 +1,15 @@
+.container {
+    background-color: greenyellow;
+    text-emphasis-color: white;
+}
+
+footer {
+    background-color: rgb(49, 4, 49);
+    text-align: center;
+    color: #ffffff;
+}
+
+.Product .box1 {
+    float: left;
+    display: inline;
+}
